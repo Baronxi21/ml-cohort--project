@@ -1,2 +1,2 @@
-a machine learning model built during my ML cohort program.
+A machine learning model built during my ML cohort program.
 Built with Python and scikit-learn in Google Colab.
