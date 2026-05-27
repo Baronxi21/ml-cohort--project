@@ -1,2 +1,2 @@
-# ml-cohort--project
-just models im building
+a machine learning model built during my ML cohort program.
+Built with Python and scikit-learn in Google Colab.
